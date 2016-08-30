@@ -14,5 +14,5 @@ Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating
 > platformio platform install linux_i686
 
 # install development version
-> platformio platform install https://github.com/platformio/platform-linux_i686/archive/develop.zip
+> platformio platform install https://github.com/platformio/platform-linux_i686.git
 ```
