@@ -18,8 +18,9 @@ from platformio.util import get_systype
 
 class Linux_i686Platform(PlatformBase):
 
-    def get_packages(self):
-        packages = PlatformBase.get_packages(self)
+    @property
+    def packages(self):
+        packages = PlatformBase.packages.fget(self)
         if (get_systype() == "linux_i686" and
                 "toolchain-gcclinux32" in packages):
             del packages['toolchain-gcclinux32']
