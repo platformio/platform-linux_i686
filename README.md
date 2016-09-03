@@ -10,7 +10,7 @@ Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating
 1. [Install PlatformIO CLI](http://docs.platformio.org/en/latest/installation.html)
 2. Install Linux i686 development platform:
 ```bash
-# isntall the latest stable version
+# install the latest stable version
 > platformio platform install linux_i686
 
 # install development version
