@@ -7,7 +7,7 @@ Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating
 
 # Usage
 
-1. [Install PlatformIO Core](http://docs.platformio.org/en/latest/core.html)
+1. [Install PlatformIO Core](http://docs.platformio.org/page/core.html)
 2. Install Linux i686 development platform:
 ```bash
 # install the latest stable version
