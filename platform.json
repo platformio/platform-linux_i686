@@ -4,6 +4,11 @@
   "description": "Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating system (OS) assembled under the model of free and open-source software development and distribution. Using host OS (Mac OS X or Linux 32-bit) you can build native application for Linux i686 platform.",
   "homepage": "http://platformio.org/platforms/linux_i686",
   "license": "Apache-2.0",
+  "keywords": [
+      "dev-platform",
+      "Linux",
+      "i686"
+  ],
   "engines": {
     "platformio": "<5"
   },
