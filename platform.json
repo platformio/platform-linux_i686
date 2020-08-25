@@ -5,9 +5,9 @@
   "homepage": "http://platformio.org/platforms/linux_i686",
   "license": "Apache-2.0",
   "keywords": [
-      "dev-platform",
-      "Linux",
-      "i686"
+    "dev-platform",
+    "Linux",
+    "i686"
   ],
   "engines": {
     "platformio": "<5"
@@ -24,6 +24,7 @@
   "packages": {
     "toolchain-gcclinux32": {
       "type": "toolchain",
+      "owner": "platformio",
       "version": "~1.40801.0"
     }
   }
