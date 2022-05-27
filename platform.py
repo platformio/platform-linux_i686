@@ -12,8 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-from platformio.public import PlatformBase
-from platformio.util import get_systype
+from platformio.public import PlatformBase, get_systype
 
 
 class Linux_i686Platform(PlatformBase):
