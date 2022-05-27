@@ -1,4 +1,4 @@
-# Linux i686: development platform for [PlatformIO](http://platformio.org)
+# Linux i686: development platform for [PlatformIO](https://platformio.org)
 
 Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating system (OS) assembled under the model of free and open-source software development and distribution. Using host OS (Mac OS X or Linux 32-bit) you can build native application for Linux i686 platform.
 
@@ -7,7 +7,7 @@ Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating
 
 # Usage
 
-1. [Install PlatformIO](http://platformio.org)
+1. [Install PlatformIO](https://platformio.org)
 2. Create PlatformIO project and configure a platform option in [platformio.ini](https://docs.platformio.org/page/projectconf.html) file:
 
 ## Stable version
