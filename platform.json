@@ -2,24 +2,25 @@
   "name": "linux_i686",
   "title": "Linux i686",
   "description": "Linux i686 (32-bit) is a Unix-like and mostly POSIX-compliant computer operating system (OS) assembled under the model of free and open-source software development and distribution. Using host OS (Mac OS X or Linux 32-bit) you can build native application for Linux i686 platform.",
-  "url": "http://platformio.org/platforms/linux_i686",
-  "homepage": "http://platformio.org/platforms/linux_i686",
+  "homepage": "https://registry.platformio.org/platforms/platformio/linux_i686",
   "license": "Apache-2.0",
+  "keywords": [
+    "dev-platform",
+    "Linux",
+    "i686"
+  ],
   "engines": {
-    "platformio": "^3.0.0"
+    "platformio": "^6"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/platformio/platform-linux_i686.git"
   },
-  "version": "1.1.2",
-  "packageRepositories": [
-    "https://dl.bintray.com/platformio/dl-packages/manifest.json",
-    "http://dl.platformio.org/packages/manifest.json"
-  ],
+  "version": "1.2.0",
   "packages": {
     "toolchain-gcclinux32": {
       "type": "toolchain",
+      "owner": "platformio",
       "version": "~1.40801.0"
     }
   }
