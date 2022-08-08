@@ -14,7 +14,7 @@ $ cd platform-linux_i686/examples/hello-world
 $ pio run
 
 # Run program
-> .pioenvs/native/program
+> .pio/native/program
 
 # Clean build files
 $ pio run --target clean
